@@ -15,6 +15,15 @@ This repository contains manual test cases for the **FBR Pakistan** web applicat
 
 ---
 
+##  Key Highlights
+
+-  **60+ Detailed Test Cases**
+-  Covers **Admin, Revenue Officer, Superintendent, Director**, and **Inspection roles**
+-  Includes **Login, Session Timeout, Forgot Password, Validation**
+-  Validates **Document Received, Reports, Inbox, and Demand Note modules**
+-  Error-handling cases like **500 errors and task assignment failures**
+-  Covers UI/UX checks, backend failures, and permission-based access
+
 ##  Test Objective
 
 To verify the overall functionality, data validation, user role access, and workflow navigation of the FBR Pakistan web-based application using manual testing methods.
@@ -73,11 +82,24 @@ To verify the overall functionality, data validation, user role access, and work
 
 ---
 
-##  Repository Contents
+---
 
-- `FBR_Manual_Test_Cases.pdf` – Detailed test case documentation  
-- `README.md` – Summary and project overview
-- LICENSE
+## Tools Used
+
+-  Manual Test Design (Microsoft Excel)
+-  Test Case File exported as PDF
+-  Git & GitHub for version control
+-  Test created and executed manually on **23/10/2022**
+
+---
+
+## 📁 Repository Structure
+
+```bash
+📂 fbr-test-cases/
+├── 📄 README.md              # Project overview
+├── 📄 LICENSE                # Usage license
+└── 📄 FBR_Test_Cases.pdf     # Detailed manual test case document
 
 ---
 
@@ -99,7 +121,7 @@ Majority of test cases passed successfully. Backend-related failures must be res
 
 - ---
 
-## 🛠 Recommendations
+##  Recommendations
 
 - Add automated regression testing for login and document workflows.
 - Improve error handling to avoid generic server errors.
