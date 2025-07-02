@@ -76,7 +76,8 @@ To verify the overall functionality, data validation, user role access, and work
 ##  Repository Contents
 
 - `FBR_Manual_Test_Cases.pdf` – Detailed test case documentation  
-- `README.md` – Summary and project overview  
+- `README.md` – Summary and project overview
+- LICENSE
 
 ---
 
