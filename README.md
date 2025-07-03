@@ -43,6 +43,7 @@ To verify the overall functionality, data validation, user role access, and work
 ---
 
 ##  Test Status Summary
+ 60 test casesin this file
 
 | Status       | Count | Percentage |
 |--------------|-------|------------|
@@ -87,7 +88,7 @@ To verify the overall functionality, data validation, user role access, and work
 ## Tools Used
 
 -  Manual Test Design (Microsoft Excel)
--  Test Case File exported as PDF
+-  Test Case File exported as .md
 -  Git & GitHub for version control
 -  Test created and executed manually on **23/10/2022**
 
@@ -99,7 +100,7 @@ To verify the overall functionality, data validation, user role access, and work
 📂 fbr-test-cases/
 ├── 📄 README.md              # Project overview
 ├── 📄 LICENSE                # Usage license
-└── 📄 FBR_Test_Cases.pdf     # Detailed manual test case document
+└── 📄 FBR_Test_Cases.md      # Detailed manual test case document
 
 ---
 
